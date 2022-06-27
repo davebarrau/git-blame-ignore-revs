@@ -4,4 +4,4 @@ Introduction here.
 
 ### More content here.
 
-Other content here.
+Replaced content here.
